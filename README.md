@@ -1,1 +1,1 @@
-# pr-cticas-IoT-O2023
+# prácticas-IoT-O2023
