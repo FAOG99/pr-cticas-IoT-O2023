@@ -1,5 +1,5 @@
 
-https://github.com/FAOG99/practicas-IoT-O2023/assets/92898049/2c88cdb2-6b08-46bd-8007-9460eee79a5b
+
 # Práctica 3
 ---
 ## 3.1
