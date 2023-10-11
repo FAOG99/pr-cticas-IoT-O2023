@@ -22,8 +22,11 @@ entre edificios o paredes.
 
 7. ¿Porque se usó este número: 915000000 como Banda de frecuencia (Hz) en esta práctica?
 
-Porque esta es la frecuencia 
+Porque esta es la frecuencia que se usa en América, si estuvieramos en Europa entonces seria la frecuencia en 868 MHz
 
 9. Desde tu punto de vista individual crees que esta práctica, aunque no se pidió que la hicieran uds los 
 estudiantes y solo la hizo la profesora ayudó a entender mas los conceptos teóricos? Si o no y 
 porque
+
+Creo que si ayudó bastante, yo en lo personal ya había hecho investigación de LoRa por lo que verlo en acción si me aclaró muchas cosas.
+
