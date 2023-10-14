@@ -216,7 +216,9 @@ void loop() {
 
 
 
-Uploading 20231013_232913_1.mp4…
+
+https://github.com/FAOG99/practicas-IoT-O2023/assets/92898049/c5d7d242-2152-43d5-b0d2-1a2ce63b16bf
+
 
 
 
